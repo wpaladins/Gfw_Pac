@@ -2,4 +2,4 @@
 >The pac file for GFW!
 
 
-Download file named "Gfw_Pac.pac" and open it as a test.
+Download the file named "Gfw_Pac.pac" and open it as a test.
